@@ -1,0 +1,8 @@
+﻿  blue_headquarter.cpp
+  headquarter.cpp
+  main.cpp
+  red_headquarter.cpp
+  world_of_warcraft.cpp
+  正在生成代码...
+C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Coursera PKU\World of Warcraft\World of Warcraft\headquarter.cpp(87): warning C4715: “Headquarter::GetWarrior”: 不是所有的控件路径都返回值
+  World of Warcraft.vcxproj -> C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Coursera PKU\World of Warcraft\Debug\World of Warcraft.exe
